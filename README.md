@@ -15,3 +15,14 @@ wuhooooo
 [如何理解协方差，相关系数](https://www.matongxue.com/madocs/568.html)< / b r >
 #####不知道怎么回事，不会换行< / b r >
 #####前面分不开< / b r >
+
+
+<br>第一天：git和svn区别
+<br>初步了解的git的使用说明
+
+<br>第二天：学习了makedwon的语法和makedownpad使用,
+如何理解协方差，相关系数等数学知识
+#####
+#####[如何理解协方差和相关距离](https://www.matongxue.com/madocs/568.html)
+
+####奶奶的，加<br>在首航开始的时候
