@@ -9,9 +9,9 @@
 
 wuhooooo
 
-第一天：git和svn区别
-初步了解的git的使用说明
-第二天：学习了makedwon的语法和makedownpad使用#
-[如何理解协方差，相关系数](https://www.matongxue.com/madocs/568.html)
-#####不知道怎么回事，不会换行
-#####前面分不开
+第一天：git和svn区别< / b r >
+初步了解的git的使用说明< / b r >
+第二天：学习了makedwon的语法和makedownpad使用#< / b r >
+[如何理解协方差，相关系数](https://www.matongxue.com/madocs/568.html)< / b r >
+#####不知道怎么回事，不会换行< / b r >
+#####前面分不开< / b r >
