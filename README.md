@@ -22,5 +22,5 @@ wuhooooo
 
 <br>第二天：学习了makedwon的语法和makedownpad使用
 <br>如何理解协方差，相关系数等数学知识
-[如何理解协方差和相关距离](https://www.matongxue.com/madocs/568.html)
-<br>奶奶的，加<br>在首航开始的时候
+<br>[如何理解协方差和相关距离](https://www.matongxue.com/madocs/568.html)
+<br>奶奶的，加br,在首航开始的时候,这也太多了吧
