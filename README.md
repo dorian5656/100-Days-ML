@@ -10,4 +10,6 @@
 wuhooooo
 
 第一天：git和svn区别
-初步了解git的使用说明
+初步了解的git的使用说明
+第二天：学习了makedwon的语法和makedownpad使用
+[如何理解协方差，相关系数](https://www.matongxue.com/madocs/568.html)
