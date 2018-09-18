@@ -26,3 +26,9 @@ wuhooooo
 <br>如何理解协方差，相关系数等数学知识
 <br>[如何理解协方差和相关距离](https://www.matongxue.com/madocs/568.html)
 <br>奶奶的，加br,在首航开始的时候,这也太多了吧
+
+<br>第三天（9.18）：今天准备看tensorrflows
+<br>先来了解基本的知识吧，以前听说过莫凡的python,
+<br>今天来看看莫凡的tensorflow 
+<br>[莫凡学习tensorflow](https://www.matongxue.com/madocs/568.html)
+
