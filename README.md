@@ -32,3 +32,7 @@ wuhooooo
 <br>今天来看看莫凡的tensorflow 
 <br>[莫凡学习tensorflow](https://www.matongxue.com/madocs/568.html)
 
+<br>看了莫凡的视频，发现好年轻啊
+<br>总结下来，还是要学习从最基本的开始
+<br>开始学习线性代数，补习吧，哈哈，麻省滴
+<br>[麻省理工公开课：线性代数](http://open.163.com/movie/2010/11/7/3/M6V0BQC4M_M6V29E773.html)
