@@ -36,3 +36,6 @@ wuhooooo
 <br>总结下来，还是要学习从最基本的开始
 <br>开始学习线性代数，补习吧，哈哈，麻省滴
 <br>[麻省理工公开课：线性代数](http://open.163.com/movie/2010/11/7/3/M6V0BQC4M_M6V29E773.html)
+
+<br>这个也不错，很形象的讲明线性代数的原理
+<br>[3Blue1Brown](https://www.bilibili.com/video/av6731067/?p=2)
