@@ -39,3 +39,11 @@ wuhooooo
 
 <br>这个也不错，很形象的讲明线性代数的原理
 <br>[3Blue1Brown](https://www.bilibili.com/video/av6731067/?p=2)
+
+
+<br>第四天（9.19）：今天准备看cnn
+<br>学习CNN为了解深度学习
+<br>学习深度学习为行为识别
+![人体骨架](E:\人体行为识别\图片\人体骨架.png)
+
+
