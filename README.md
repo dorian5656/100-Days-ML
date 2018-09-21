@@ -50,4 +50,9 @@ wuhooooo
 <br>这就很奇怪了，图片打不开
 
 
+<br>第四天（9.21）：看了numpy
+<br>对于向量和矩阵还是有些不太了解
+<br>矩阵是基础哈
+<br>来一个pandas教程，官方的，梯子版
+<br>[pandas教程](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dsintro)
 
