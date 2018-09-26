@@ -56,6 +56,6 @@ wuhooooo
 <br>来一个pandas教程，官方的，梯子版
 <br>[pandas教程](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dsintro)
 
-<br>第四天（9.26）：yaofangjiale  meixinsi xuexi  weiweiyixaoxao 
+<br>第wu天（9.26）：yaofangjiale  meixinsi xuexi  weiweiyixaoxao 
 
 
